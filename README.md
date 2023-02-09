@@ -16,4 +16,4 @@ Introducing the Lex Bot Widget repository, the ultimate solution for integrating
     </body>
     ```
 5. Change value of identityPool, botId and botAliasId in `LexBotWidget/index.js` file.
-6. NOTE: Go to [test.html](https://github.com/aquibzahidi/LexBotWidget/test.html) for checking whole implementation.
+6. NOTE: Go to [test.html](/test.html) for checking whole implementation.
